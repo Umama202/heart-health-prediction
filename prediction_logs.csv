@@ -1,0 +1,8 @@
+Age,Gender,Heart rate,Systolic blood pressure,Diastolic blood pressure,Blood sugar,CK-MB,Troponin,Predicted Risk
+45,1,74,120,60,80,5.0,0.0,Low
+57,1,103,120,80,100,8.0,0.1,High
+40,0,79,120,80,100,5.0,0.1,High
+29,0,89,138,77,114,8.0,1.06,High
+29,0,79,125,77,107,5.0,0.0,Low
+29,0,94,131,87,213,5.0,0.0,Moderate
+19,1,94,131,87,213,5.0,0.0,Moderate
